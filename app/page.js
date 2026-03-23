@@ -21,19 +21,19 @@ const reasons = [
 const testimonials = [
   {
     quote:
-      'I absolutely love getting a mani and pedi here. Helen provides the best gel manicures. The manicures typically last 3 weeks and I always get compliments on how nice my nails look!
+      'I absolutely love getting a mani and pedi here. Helen provides the best gel manicures. The manicures typically last 3 weeks and I always get compliments on how nice my nails look!',
 ',
-    name: 'Five Stars',
+    name: '5 Stars',
   },
   {
     quote:
       'Today was my first visit to Beauty Image Spa. I received a warm, delightful welcome. The atmosphere is bright and space is clean and organized. I did not have an appointment. I was matched with Lina who gave me the most beautiful gel manicure. I have thin brittle nails and was offered nail hardener. I’m so pleased and happy with the outcome. Lina’s work is absolutely meticulous. I am looking forward to my next visit. Thank you!',
-    name: 'Five Stars',
+    name: '5 Stars',
   },
   {
     quote:
       'Awesome experience, Great service! Book your appointment now you won’t regret it 🎉 I got Holiday Heart nails and loved them 💗 My feet feel super soft after the Russian pedicure and the tech did a great job 👏',
-    name: 'Five Stars',
+    name: '5 Stars',
   },
 ];
 
