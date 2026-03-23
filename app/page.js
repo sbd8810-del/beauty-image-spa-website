@@ -32,7 +32,7 @@ const testimonials = [
   },
   {
     quote:
-      'The team is talented and detail-oriented. I get compliments on my nails nonstop.',
+      'Awesome experience, Great service! Book your appointment now you won’t regret it 🎉 I got Holiday Heart nails and loved them 💗 My feet feel super soft after the Russian pedicure and the tech did a great job 👏',
     name: '5 Stars',
   },
 ];
