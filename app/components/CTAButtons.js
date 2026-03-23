@@ -6,7 +6,7 @@ export default function CTAButtons() {
         Book Now
       </a>
       {/* Replace placeholder phone number */}
-      <a href="tel:+15551234567" className="button-secondary">
+      <a href="tel:+12155727546" className="button-secondary">
         Call Now
       </a>
     </div>
