@@ -25,15 +25,19 @@ export default function ContactPage() {
           <div>
             <h2>Contact Information</h2>
             {/* Replace with real contact details */}
-            <p>Phone: (555) 123-4567</p>
+            <p>Phone: (215) 572-7546</p>
             <p>Email: hello@beautyimagespa.com</p>
-            <p>Address: 123 Elegance Avenue, Suite 7, Springfield, ST 12345</p>
+            <p>Address: 418 Old York Rd, Jenkintown, PA 19046</p>
 
             <h3>Business Hours</h3>
             {/* Replace with final operating hours */}
-            <p>Mon - Fri: 9:00 AM - 7:00 PM</p>
-            <p>Saturday: 9:00 AM - 6:00 PM</p>
-            <p>Sunday: 10:00 AM - 4:00 PM</p>
+            <p>Monday: 9:00 AM - 5:00 PM</p>
+            <p>Tuesday: 9:00 AM - 5:00 PM</p>
+            <p>Wednesday: 9:00 AM - 6:00 PM</p>
+            <p>Thursday: 8:00 AM - 7:00 PM</p>
+            <p>Friday: 8:00 AM - 7:00 PM</p>
+            <p>Saturday: 8:00 AM - 5:00 PM</p>
+            <p>Sunday: Closed</p>
           </div>
 
           <form className="contact-form" aria-label="Contact form">
@@ -42,7 +46,7 @@ export default function ContactPage() {
             <input id="name" name="name" type="text" placeholder="Your Name" required />
 
             <label htmlFor="phone">Phone</label>
-            <input id="phone" name="phone" type="tel" placeholder="(555) 123-4567" required />
+            <input id="phone" name="phone" type="tel" placeholder="(215) 572-7546" required />
 
             <label htmlFor="service">Service Interest</label>
             <input id="service" name="service" type="text" placeholder="e.g., Gel Manicure" />
