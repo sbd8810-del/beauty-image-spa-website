@@ -46,7 +46,7 @@ export default function ContactPage() {
             <input id="name" name="name" type="text" placeholder="Your Name" required />
 
             <label htmlFor="phone">Phone</label>
-            <input id="phone" name="phone" type="tel" placeholder="(215) 572-7546" required />
+            <input id="phone" name="phone" type="tel" placeholder="123-456-7890" required />
 
             <label htmlFor="service">Service Interest</label>
             <input id="service" name="service" type="text" placeholder="e.g., Gel Manicure" />
